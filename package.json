@@ -1,12 +1,12 @@
 {
-  "name": "webring",
-  "version": "0.1.0",
-  "description": "A boilerplate for hosting a webring community",
-  "author": "Max Böck",
+  "name": "radiowebring",
+  "version": "0.1.1",
+  "description": "Amateur Radio Enthusiasts Webring",
+  "author": "Fernando Ortiz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/webring"
+    "url": "http://github.com/nandub/radiowebring"
   },
   "scripts": {
     "start": "eleventy --serve",
