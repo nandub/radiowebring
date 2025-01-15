@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy",
+    "build": "eleventy && netlify functions:build --functions .netlify/functions --src _lambda",
     "dev": "netlify dev"
   },
   "dependencies": {
