@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Amateur Radio Enthusiasts Webring",
+    "description": "A fearless band of button-pushing, dial-twisting adventurers who believe that yelling into the void isn't just a hobby—it's a lifestyle. These are the folks who can MacGyver an antenna out of a paperclip, an old coffee can, and some duct tape, all while explaining propagation patterns like it's small talk. They communicate with people halfway around the world, yet somehow still can’t get their neighbors to return their lawnmower. When the internet goes down, they smugly reach for their transceivers, ready to save the day—or at least find out the weather in Antarctica. Whether they're chasing rare DX contacts or just geeking out over signal reports, these radio warriors prove that 'old-school' isn't just cool—it's 73 times better.",
+    "image": "radio.jpeg",
+    "url": "https://radiowebring.netlify.app",
+    "repo": "https://github.com/nandub/radiowebring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Fernando Ortiz KI5LKF",
+            "url": "https://github.com/nandub"
         }
     ]
 }
